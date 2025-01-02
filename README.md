@@ -3,6 +3,16 @@
 
 LosetheLeftOvers is a food-sharing app made for a client that I worked on with my Capstone group. 
 
+My role in this group project is as follows: 
+- Sprint planning.
+- Development environment setup (Docker, Django, React-Natvie).
+- Infrastructure design (microservices segragation, database integration, reusable front-end components).
+- Secure JWT + Refresh Token authentication: made a asynchronous library to automatically authenticate, securely hash and store, and refresh JWT tokens anytime the user requests a private endpoint.
+- UI Design with 5 iterations of user-feedback.
+- Location services using PostGIS and Long/Latitude cordinates to filter ads nearby. Ensured secure HTTP request.
+- Password reset functionality using email.
+- Several hours of bug fixing, tinkering, and helping group members when and where I could. 
+
 ## Table of Contents 
 - [Frontend](/app/LooseTheLeftovers_Frontend)
 - [Backend](/app/LooseTheLeftovers_Backend)
