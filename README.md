@@ -1,11 +1,8 @@
-<!-- Title and Logo -->
-<p align="center">
-  <img src="path/to/logo.png" alt="LosetheLeftovers Logo" width="200" />
-</p>
-
 # Welcome to LosetheLeftovers!
 
 LosetheLeftOvers is a food-sharing app made for a client that I worked on with my Capstone group.
+
+![logo](https://github.com/user-attachments/assets/ecab8861-36a5-4c4c-9001-436b0098f09f)
 
 ## Table of Contents
 - [Overview](#overview)
